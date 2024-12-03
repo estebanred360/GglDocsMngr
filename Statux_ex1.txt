@@ -1,0 +1,56 @@
+STATUTS DE LA SOCIÉTÉ PAR ACTIONS SIMPLIFIÉE [Nom de la Société]
+
+Article 1 : Forme
+La société est constituée sous la forme d'une Société par Actions Simplifiée (SAS) régie par les articles L. 227-1 et suivants du Code de commerce et par les présents statuts.
+
+Article 2 : Dénomination
+La société prend la dénomination sociale de : [Nom de la Société]
+
+Article 3 : Siège social
+Le siège social est fixé à : [Adresse complète du siège social]
+Il peut être transféré par décision du Président, sous réserve de ratification par l'assemblée générale des actionnaires.
+
+Article 4 : Objet
+La société a pour objet, en France et à l'étranger : [Description détaillée de l'objet social]
+
+Article 5 : Durée
+La société est constituée pour une durée de [nombre] années à compter de son immatriculation au Registre du Commerce et des Sociétés.
+
+Article 6 : Capital social
+Le capital social est fixé à la somme de [montant en euros] euros. Il est divisé en [nombre] actions de [valeur nominale en euros] euros chacune, entièrement souscrites et libérées.
+
+Article 7 : Apports
+Les apports en numéraire sont effectués par les actionnaires fondateurs et sont libérés à hauteur de [pourcentage] % lors de la souscription.
+
+Article 8 : Actions
+Les actions sont nominatives. Elles sont librement cessibles entre actionnaires. Toute cession à un tiers est soumise à l'agrément préalable de la société.
+
+Article 9 : Organes de la société
+La société est dirigée par un Président, qui peut être une personne physique ou morale. Le Président est nommé par l'assemblée générale des actionnaires pour une durée de [nombre] années.
+
+Article 10 : Assemblées générales
+Les assemblées générales ordinaires et extraordinaires se réunissent sur convocation du Président ou à la demande d'actionnaires représentant au moins [pourcentage] % du capital social.
+
+Article 11 : Exercice social
+L'exercice social commence le [date de début] et se termine le [date de fin] de chaque année.
+
+Article 12 : Comptes sociaux
+Les comptes sociaux sont arrêtés au [date de clôture] de chaque année. Ils sont approuvés par l'assemblée générale ordinaire dans les six mois suivant la clôture de l'exercice.
+
+Article 13 : Dissolution et liquidation
+La dissolution de la société peut être décidée par l'assemblée générale extraordinaire. La liquidation est effectuée conformément aux dispositions légales en vigueur.
+
+Fait à [lieu], le [date]
+
+Signatures des actionnaires fondateurs :
+
+[Nom et signature du premier actionnaire]
+[Nom et signature du deuxième actionnaire]
+[Nom et signature du troisième actionnaire]
+
+Annexe 1 : Liste des actionnaires
+Nom : [Nom du premier actionnaire]
+Nom : [Nom du deuxième actionnaire]
+
+Annexe 2 : Détails financiers
+Capital social : [Montant en euros]
